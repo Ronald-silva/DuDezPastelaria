@@ -12,3 +12,16 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+# Sitemap
+Sitemap: https://du-dez-pastelaria.vercel.app/sitemap.xml
+
+# Specific rules
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Allow important pages
+Allow: /
+Allow: /menu
+Allow: /cardapio

@@ -131,7 +131,7 @@ const Index = () => {
             © 2024 Du Dez Pastelaria. Todos os direitos reservados.
           </p>
           <p className="text-xs mt-2">
-            Desenvolvido com ❤️ para oferecer a melhor experiência digital
+            Desenvolvido por Ronald-Dev para oferecer a melhor experiência digital
           </p>
         </footer>
       </main>

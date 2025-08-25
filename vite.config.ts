@@ -28,6 +28,7 @@ export default defineConfig(({ mode }) => ({
     force: true,
   },
   build: {
+    sourcemap: false,
     rollupOptions: {
       output: {
         manualChunks: undefined,
@@ -38,4 +39,7 @@ export default defineConfig(({ mode }) => ({
   esbuild: {
     logOverride: { 'this-is-undefined-in-esm': 'silent' }
   },
+  css: {
+    devSourcemap: false
+  }
 }));

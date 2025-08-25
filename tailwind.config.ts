@@ -24,6 +24,16 @@ export default {
 				ring: 'hsl(var(--ring))',
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
+				
+				// Du Dez Brand Colors
+				'dudez': {
+					'orange': '#FF8C00',
+					'orange-light': '#FFA500', 
+					'red': '#B22222',
+					'gold': '#FFD700',
+					'brown': '#8B4513',
+					'cream': '#FFF8DC'
+				},
 				primary: {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))',

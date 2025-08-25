@@ -7,8 +7,8 @@
   
   [![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://du-dez-pastelaria.vercel.app)
   [![WhatsApp](https://img.shields.io/badge/Pedidos-WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5585991993833)
-  [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+  [![React](https://img.shields.io/badge/React-18-FF8C00?style=for-the-badge&logo=react)](https://reactjs.org/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-5-B22222?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 </div>
 
 ---
@@ -18,6 +18,7 @@
 Sistema de **menu digital** moderno e responsivo para a **Du Dez Pastelaria**, desenvolvido para facilitar pedidos online via WhatsApp. O projeto oferece uma experiência completa de delivery com interface intuitiva e processo de pedido otimizado.
 
 ### 🌐 **Acesse o Sistema**
+
 **Link do Projeto:** [du-dez-pastelaria.vercel.app](https://du-dez-pastelaria.vercel.app)
 
 ---
@@ -25,23 +26,27 @@ Sistema de **menu digital** moderno e responsivo para a **Du Dez Pastelaria**, d
 ## ✨ **Funcionalidades Principais**
 
 ### 🛒 **Sistema de Pedidos**
+
 - **Menu digital completo** com mais de 70 produtos
 - **Carrinho inteligente** com controle de quantidade
 - **Adicionais personalizáveis** para pastéis
 - **Categorização organizada** (Pastéis Salgados, Doces, Pizzas, Batatas, Bebidas)
 
 ### 💳 **Formas de Pagamento**
+
 - **PIX** - Pagamento instantâneo
 - **Cartão** - Débito e Crédito
 - **Dinheiro** - Com calculadora automática de troco
 
 ### 📱 **Integração WhatsApp**
+
 - **Pedidos automáticos** via WhatsApp
 - **Mensagens profissionais** formatadas
 - **Detalhamento completo** do pedido
 - **Informações organizadas** por categoria
 
 ### 🚚 **Opções de Entrega**
+
 - **Delivery** - Entrega no endereço
 - **Retirada** - Buscar na loja
 - **Formulário completo** de dados do cliente
@@ -51,17 +56,20 @@ Sistema de **menu digital** moderno e responsivo para a **Du Dez Pastelaria**, d
 ## 🛠️ **Tecnologias Utilizadas**
 
 ### **Frontend**
+
 - **React 18** - Biblioteca JavaScript
 - **TypeScript** - Tipagem estática
 - **Vite** - Build tool moderna
 - **Tailwind CSS** - Framework CSS utilitário
 
 ### **Componentes UI**
+
 - **Shadcn/ui** - Componentes acessíveis
 - **Radix UI** - Primitivos de interface
 - **Lucide React** - Ícones modernos
 
 ### **Funcionalidades**
+
 - **React Hooks** - Gerenciamento de estado
 - **Responsive Design** - Adaptável a todos os dispositivos
 - **PWA Ready** - Instalável como app
@@ -71,25 +79,30 @@ Sistema de **menu digital** moderno e responsivo para a **Du Dez Pastelaria**, d
 ## 📋 **Cardápio Completo**
 
 ### 🥟 **Pastéis Salgados** (40+ opções)
+
 - Tradicionais (Queijo, Carne, Frango)
 - Especiais (Mistão, Portuguesa, Carne do Sol)
 - Gourmet (Com Catupiry, Cheddar, Bacon)
 
 ### 🍰 **Pastéis Doces** (3 opções)
+
 - Chocolate
-- Chocolate com Queijo  
+- Chocolate com Queijo
 - Sonho de Valsa
 
 ### 🍕 **Pizzas** (20+ sabores)
+
 - Salgadas (Calabresa, Portuguesa, Frango)
 - Especiais (Carne do Sol Premium, A Moda da Casa)
 - Doces (Brigadeiro, M&Ms)
 
 ### 🍟 **Batatas**
+
 - Tradicional 300g
 - Com Cheddar e Bacon 300g
 
 ### 🥤 **Bebidas**
+
 - Sucos 300ml
 - Refrigerantes (Lata e 1L)
 - Cajuína 1L
@@ -99,10 +112,12 @@ Sistema de **menu digital** moderno e responsivo para a **Du Dez Pastelaria**, d
 ## 🚀 **Como Executar o Projeto**
 
 ### **Pré-requisitos**
+
 - Node.js 18+ instalado
 - npm ou yarn
 
 ### **Instalação**
+
 ```bash
 # Clone o repositório
 git clone https://github.com/Ronald-silva/dez-pastel-delivery.git
@@ -118,6 +133,7 @@ npm run dev
 ```
 
 ### **Scripts Disponíveis**
+
 ```bash
 npm run dev      # Servidor de desenvolvimento
 npm run build    # Build para produção
@@ -141,18 +157,29 @@ npm run lint     # Verificar código
 ## 🎨 **Design e UX**
 
 ### **Interface Moderna**
+
 - Design limpo e profissional
 - Cores da marca (Laranja #f97316)
 - Tipografia legível
 - Navegação intuitiva
 
 ### **Experiência Mobile-First**
+
 - Otimizado para smartphones
 - Touch-friendly
 - Carregamento rápido
 - Offline-ready
 
+### **Identidade Visual**
+
+- **Paleta de cores** baseada na logo oficial
+- **Laranja vibrante** (#FF8C00) como cor principal
+- **Vermelho bordô** (#B22222) para contrastes
+- **Dourado** (#FFD700) para destaques especiais
+- **Gradientes harmoniosos** entre as cores da marca
+
 ### **Acessibilidade**
+
 - Contraste adequado
 - Navegação por teclado
 - Screen reader friendly
@@ -174,11 +201,13 @@ npm run lint     # Verificar código
 ## 🔧 **Configurações**
 
 ### **WhatsApp**
+
 - Número configurado: `85991993833`
 - Mensagens automáticas formatadas
 - Integração direta via wa.me
 
 ### **Deploy**
+
 - Hospedado na **Vercel**
 - Deploy automático via Git
 - SSL/HTTPS habilitado
@@ -228,6 +257,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5585991575525)
 
 **Especialista em:**
+
 - ⚛️ React & Next.js
 - 🎨 UI/UX Design
 - 📱 Aplicações Mobile
@@ -242,6 +272,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 A **Du Dez Pastelaria** é referência em pastéis e pizzas, oferecendo produtos de alta qualidade com ingredientes frescos e sabor incomparável. Com este menu digital, a experiência do cliente foi elevada a um novo patamar de praticidade e eficiência.
 
 ### **Contato da Pastelaria**
+
 - 📱 **WhatsApp:** (85) 99199-3833
 - 🌐 **Site:** [du-dez-pastelaria.vercel.app](https://du-dez-pastelaria.vercel.app)
 
